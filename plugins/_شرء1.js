@@ -13,7 +13,7 @@ const handler = async (m, { conn }) => {
                     header: { title: 'Elakreb' },
                     body: {
                         text: `━ ╼╃ ⌬〔﷽〕⌬ ╄╾ ━
-> 𝐸𝐿𝐴𝐾𝑅𝐸𝐵↳🐢↲𝐁𝐎𝐓
+> 𝐄𝐋𝐙𝟑𝐄𝐌𝐆𝐎𝐍↳🐢↲𝐁𝐎𝐓
 > 〔 الاشتراك المجاني┊ ˼‏ 🦂˹ ↶〕
 *⋅ ───━ •﹝👑﹞• ━─── ⋅*
             *بـيـ🦈ــبـو بــ🤖ــوت*
@@ -35,7 +35,7 @@ const handler = async (m, { conn }) => {
 *ملحوظة : الاشتراك المجاني اسبوع واحد فقط وبمقابل 🚀*
 *⋅ ───━ •﹝👑﹞• ━─── ⋅*
 > 〔تـوقـيـع┊ ˼‏📜˹ 〕↶
-⌠𝐸𝐿𝐴𝐾𝑅𝐸𝐵↳🐢↲𝐁𝐎𝐓⌡
+⌠𝐄𝐋𝐙𝟑𝐄𝐌𝐆𝐎𝐍↳🐢↲𝐁𝐎𝐓⌡
 *⋅ ───━ •﹝👑﹞• ━─── ⋅*`,
                         subtitle: "Elakreb"
                     },
@@ -47,11 +47,11 @@ const handler = async (m, { conn }) => {
                         buttons: [
                             {
                                 name: "cta_url",
-                                buttonParamsJson: '{"display_text":"⌈🚀╎𝐁𝐔𝐘 ˹💰˼ 𝐍𝐎𝐖╎🚀⌋","url":"https://api.whatsapp.com/send?phone=+201028085788","merchant_url":"https://api.whatsapp.com/send?phone=+201028085788"}'
+                                buttonParamsJson: '{"display_text":"⌈🚀╎𝐁𝐔𝐘 ˹💰˼ 𝐍𝐎𝐖╎🚀⌋","url":"https://api.whatsapp.com/send?phone=+201146121794","merchant_url":"https://api.whatsapp.com/send?phone=+201146121794"}'
                             },
                             {
                                 name: "cta_url",
-                                buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الـمـطـور╎📲⌋","url":"https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f","merchant_url":"https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f"}'
+                                buttonParamsJson: '{"display_text":"⌈📲╎قـنـاة الـمـطـور╎📲⌋","url":"https://youtube.com/@7ussein_ali1","merchant_url":"https://youtube.com/@7ussein_ali1"}'
                             }
                         ]
                     }
