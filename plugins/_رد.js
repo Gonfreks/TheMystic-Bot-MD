@@ -20,7 +20,7 @@ const fakecontact = { 'key': { 'participants': '0@s.whatsapp.net', 'remoteJid': 
  if (phoneNumber === num) {
           
   this.sendMessage(m.chat, {audio: {url: vn2}, fileName: 'error.mp3', mimetype: 'audio/mpeg', ptt: true}, {quoted: fakecontact});
- this.sendMessage(m.chat, {text: `*عاوز اي من مطوري ي @${m.sender.split('@')[0]} 🤨*`}, {quoted: fakecontact});
+ this.sendMessage(m.chat, {text: `*عاوز اي من مطوري يااه @${m.sender.split('@')[0]} 🤨*`}, {quoted: fakecontact});
  return;
  
  } else if (phoneNumber === num2) {
@@ -31,7 +31,7 @@ const fakecontact = { 'key': { 'participants': '0@s.whatsapp.net', 'remoteJid': 
  } else {
           
   this.sendMessage(m.chat, {audio: {url: vn}, fileName: 'error.mp3', mimetype: 'audio/mpeg', ptt: true}, {quoted: fakecontact});
- this.sendMessage(m.chat, {text: `*ايوا ي @${m.sender.split('@')[0]} عاوز أي 👀*`}, {quoted: fakecontact});
+ this.sendMessage(m.chat, {text: `*ايوا ياحب @${m.sender.split('@')[0]} عاوز أي 👀*`}, {quoted: fakecontact});
  return;
  }
  } 
