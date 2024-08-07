@@ -1,13 +1,13 @@
 let handler = async (m, { conn, usedPrefix, command, text }) => {
-    let img1 = 'https://telegra.ph/file/b9b4ff9c328cfe440f91f.jpg';
-    let img2 = 'https://telegra.ph/file/af5ccc5465eaf7c992d41.jpg';
-    let img3 = 'https://telegra.ph/file/f3da2861eecd22c94eccd.png';
-    let img4 = 'https://telegra.ph/file/fac77b35f03be91331101.jpg';
-    let img5 = 'https://telegra.ph/file/94ca0157e25f6483785b8.jpg';
-    let img6 = 'https://telegra.ph/file/ded95fbfe8b0d0a74675b.jpg';
-    let img7 = 'https://telegra.ph/file/904b5a88b9bc88a6b34d9.jpg';
-    let img8 = 'https://telegra.ph/file/b381868f907972dd54951.jpg';
-    let img9 = 'https://telegra.ph/file/380264a7e44a8a86df4e4.jpg';
+    let img1 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img2 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img3 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img4 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img5 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img6 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img7 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img8 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
+    let img9 = 'https://telegra.ph/file/1c5c89beaf762a0be6c11.jpg';
 
     const messages = [
         [
@@ -41,7 +41,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 > *© 𝐸𝐿𝐴𝐾𝑅𝐸𝐵...*`,
             img1,
             [], [],
-            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201028085788'], ['「❄ ╎الــقــــناه❄ 」', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201146121794'], ['「❄ ╎النقابة❄ 」', 'https://chat.whatsapp.com/CNbtsp5kthnCxNPJHeK8IM']],
             []
         ],
         [
@@ -92,17 +92,17 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 *🦈➜⃞「قريبا...」*
 
 ~*⊹‏⊱≼━━━⌬〔⏳〕⌬━━━≽⊰⊹*~
-> *© 𝐸𝐿𝐴𝐾𝑅𝐸𝐵...*`,
+> *© 𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍...*`,
             img2,
             [], [],
-            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201028085788'], ['「❄ ╎قــناتــــي╎❄ 」', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201146121794'], ['「❄ ╎قــناتــــي╎❄ 」', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
             `> ~*⊹‏⊱≼━━━⌬〔🦂〕⌬━━━≽⊰⊹*~
 *ほالــــتـــــــرفــــيـــــه⤣🎻⤤〆*
 > ~*⊹‏⊱≼━━━⌬〔👾〕⌬━━━≽⊰⊹*~`,
-            `*💭➜⃞「ورع @tag」*
+`*💭➜⃞「ورع @tag」*
 *💭➜⃞「اهبل @tag」*
 *💭➜⃞「خروف @tag」*
 *💭➜⃞「جميل @tag」*
@@ -133,10 +133,10 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 *💭➜⃞「 بيستو 」*
 *💭➜⃞「 كراشي」*
 ~*⊹‏⊱≼━━━⌬〔👾〕⌬━━━≽⊰⊹*~
-> *© 𝐸𝐿𝐴𝐾𝑅𝐸𝐵...*`,
+> *© 𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍...*`,
             img3,
             [], [],
-            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201028085788'], ['「❄ ╎قــنــاتـي╎❄ 」', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['「❄ ╎الـمــطـور╎❄ 」', 'https://wa.me/201146121794'], ['「❄ ╎قــنــاتـي╎❄ 」', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
@@ -147,7 +147,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img4,
             [], [],
-            [['زر 7', 'https://wa.me/201028085788'], ['زر 8', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 7', 'https://wa.me/201146121794'], ['زر 8', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
@@ -158,7 +158,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img5,
             [], [],
-            [['زر 9', 'https://wa.me/201028085788'], ['زر 10', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 9', 'https://wa.me/201146121794'], ['زر 10', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
@@ -169,7 +169,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img6,
             [], [],
-            [['زر 11', 'https://wa.me/201028085788'], ['زر 12', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 11', 'https://wa.me/201146121794'], ['زر 12', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
@@ -180,7 +180,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img7,
             [], [],
-            [['زر 13', 'https://wa.me/201028085788'], ['زر 14', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 13', 'https://wa.me/201146121794'], ['زر 14', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
@@ -191,7 +191,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img8,
             [], [],
-            [['زر 15', 'https://wa.me/201028085788'], ['زر 16', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 15', 'https://wa.me/201146121794'], ['زر 16', 'https://youtube.com/@7ussein_ali1']],
             []
         ],
         [
@@ -202,7 +202,7 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
 احم`,
             img9,
             [], [],
-            [['زر 17', 'https://wa.me/201028085788'], ['زر 18', 'https://whatsapp.com/channel/0029VahbMZl4tRrkdpJrCv2f']],
+            [['زر 17', 'https://wa.me/201146121794'], ['زر 18', 'https://youtube.com/@7ussein_ali1']],
             []
         ]
     ];
@@ -211,10 +211,11 @@ let handler = async (m, { conn, usedPrefix, command, text }) => {
     await conn.sendCarousel(m.chat, `بسم الله الرحمن الرحيم
 > انا لست مسؤولا عن أي اسائة لاستخدام مزايا واوامر البوت
 *────────────────⟢*
+*⤣🦈⤤البوت تابع لـنقابـة انفـينتي*
 *⤣🦈⤤يمنع استخدام البوت في الخاص*
 *⤣🦈⤤يمنع شتم او سب البوت*
 *⤣🦈⤤يمنع البحث عن محتوى اباحي بواسطة البوت*
-*────────────────⟢*`, '*⚜𝗕𝗢𝗧 👾 𝗘𝗟𝗔𝗞𝗥𝗔𝗕⚜*', '*⚜𝗕𝗢𝗧 👾 𝗘𝗟𝗔𝗞𝗥𝗔𝗕⚜*', messages, m);
+*────────────────⟢*`, '*⚜𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓⚜*', '*⚜𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓⚜*', messages, m);
 }
 
 handler.command = /^(اوامر1)$/i; // Command to trigger the handler function
