@@ -8,19 +8,19 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['201066922164', '🔥 Alex-Y7 ❄️', true],
+  ['201146121794', '🔥 𝑰𝑵𝑭𝑰𝑵𝑰𝑻𝒀 ❄️', true],
 ];
 
-global.xaxa = 'Alex-Bot'
-global.suittag = ['201066922164'];
-global.prems = ['201066922164'];
+global.xaxa = 'INFINTI-BOT'
+global.suittag = ['201146121794'];
+global.prems = ['201146121794'];
 
-global.packname = 'Alex-Y7';
-global.author = '★AlexY7 - Alex Bot★';
-global.wm = '★Alex-Bot★';
-global.titulowm = '🤖Alex-Bot🤖';
-global.titulowm2 = `乂Alex-Bot乂`
-global.igfg = '★Alex-Y7★';
+global.packname = '𝑰𝑵𝑭𝑰𝑵𝑰𝑻𝒀-نـقابة';
+global.author = '★𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 - 𝑰𝑵𝑭𝑰𝑵𝑰𝑻𝒀 Bot★';
+global.wm = '★𝐄𝐋𝐙𝟑𝐄𝐌 𝐆𝐎𝐍 𝐁𝐎𝐓★';
+global.titulowm = '🤖𝑰𝑵𝑭𝑰𝑵𝑰𝑻𝒀-Bot🤖';
+global.titulowm2 = `乂𝑰𝑵𝑭𝑰𝑵𝑰𝑻𝒀-Bot乂`
+global.igfg = '★𝑰𝑵𝑭𝑰𝑵𝑰𝑻𝒀-CR7★';
 global.wait = '*⌛ _جاري التحميل..._*\n\n*▰▰▰▱▱▱▱▱*';
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg');
